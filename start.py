@@ -38,7 +38,7 @@ def mask_blur(original_img, blur_img, predicted_img):
 
     new_b = []
     new_g = []
-    new_r = []
+
 
     mks_img_new = np.zeros([512, 512, 3])
 
